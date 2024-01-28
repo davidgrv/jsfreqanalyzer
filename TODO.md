@@ -1,2 +1,3 @@
-Add frequency spectrum slope options
-Add averaging 
+#TODO
+- Add frequency spectrum slope options
+- Add averaging 
