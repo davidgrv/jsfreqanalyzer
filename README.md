@@ -2,7 +2,7 @@
 JSFreqAnalyzer is a modern frequency spectrum analyzer using the Web Audio API. 
 <br /><br />
 ![High resolution spectrum in cyan color](https://github.com/davidgrv/jsfreqanalyzer/blob/main/assets/highrescyan.gif)
-JSFreqAnalyzer supports a wide range of resolutions and colors and utilizes a logarithmic scale for better approximation of human hearing perception. 
+JSFreqAnalyzer supports a wide range of resolutions and colors. It utilizes a logarithmic scale to better approximate human hearing perception. 
 <br /><br />
 ![Medium resolution spectrum in purple color](https://github.com/davidgrv/jsfreqanalyzer/blob/main/assets/midrespurple.gif)
 <br /><br />
